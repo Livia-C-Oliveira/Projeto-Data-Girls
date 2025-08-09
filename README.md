@@ -81,8 +81,8 @@ Aplicando essas recomendações, a empresa pode:
 
 ## Como executar o projeto
 
-- Abra o notebook `notebooks/analise_data_girls.ipynb` no Google Colab ou Jupyter Notebook para visualizar o código e análise.  
-- Abra o arquivo `power_bi/relatorio.pbix` no Power BI Desktop para explorar o dashboard interativo.
+- Abra o notebook no Google Colab ou Jupyter Notebook para visualizar o código e análise.  
+- Abra o arquivo no Power BI Desktop para explorar o dashboard interativo.
 - Link: https://app.powerbi.com/links/S7YoT0HVoG?ctid=b20c788c-304b-4825-b93e-dee136c23b1f&pbi_source=linkShare 
 
 ---
